@@ -3,7 +3,7 @@
 <img src="https://c.tenor.com/-__vw7XVu-YAAAAi/cute-penguin.gif" height="72"/></h1>
 <h3 align="center">Направлен на изучение C++</h3>
 
- 📫 Как со мной связаться: Discord Travk4#7691 или [Группа VK](https://vk.me/Travyaka)
+ 📫 Как со мной связаться: [Discord](https://discord.com/users/546960559958917121/)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
